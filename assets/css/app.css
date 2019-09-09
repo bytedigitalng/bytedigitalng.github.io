@@ -9,3 +9,7 @@ body{
   background-position: center center;
   background-attachment: fixed;
 }
+
+a, a:hover{
+  color: #ffffff;
+}
