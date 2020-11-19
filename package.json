@@ -1,0 +1,20 @@
+{
+  "name": "bytereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "next build && next export -o docs && git checkout -- docs/CNAME && git checkout -- docs/.nojekyll && git add docs && git commit -m \"chore: regen site\" && git push origin master"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.0",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

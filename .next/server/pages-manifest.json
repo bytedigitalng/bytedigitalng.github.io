@@ -1,0 +1,15 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/page": "pages/page.html",
+  "/portfolio/byteproperty": "pages/portfolio/byteproperty.html",
+  "/portfolio/ireg": "pages/portfolio/ireg.html",
+  "/portfolio/jaymasedge": "pages/portfolio/jaymasedge.html",
+  "/services": "pages/services.html",
+  "/works": "pages/works.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}

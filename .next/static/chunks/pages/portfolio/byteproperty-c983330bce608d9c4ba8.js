@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[13],{bPnr:function(n,o){},dInz:function(n,o,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/portfolio/byteproperty",function(){return _("bPnr")}])}},[["dInz",0]]]);
