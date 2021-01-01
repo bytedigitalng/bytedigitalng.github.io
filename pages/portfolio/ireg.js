@@ -10,7 +10,7 @@ let headerContent = {
 };
 
 let pageTitle = {
-  "title" : "About Us - Byte DIgital"
+  "title" : "Byte Digital :: Project - ireg.com.ng"
 }
 
 const ireg = () => (

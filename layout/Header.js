@@ -20,33 +20,25 @@ const Header = () => (
           id="accordianMenu"
           className="primary-menu horizontal my-auto ml-auto collapse d-md-block"
         >
-          <ul>
+          <ul className="topNav">
             <li>
               <Link href="/about">
-                <a>
-                  <i className="ti-id-badge"></i> About
-                </a>
+                <a> About</a>
               </Link>
             </li>
             <li>
               <Link href="/services">
-                <a>
-                  <i className="ti-paint-roller"></i> Services
-                </a>
+                <a>Services</a>
               </Link>
             </li>
             <li>
               <Link href="/works">
-                <a>
-                  <i className="ti-briefcase"></i> Portfolio
-                </a>
+                <a>Portfolio</a>
               </Link>
             </li>
             <li>
               <Link href="/contact">
-                <a>
-                  <i className="ti-location-pin"></i> Contact
-                </a>
+                <a>Contact</a>
               </Link>
             </li>
             <li>

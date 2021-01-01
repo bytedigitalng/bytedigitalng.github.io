@@ -19,14 +19,23 @@
     Support: http://regaltheme.com/support
 ============================================================*/
 
-
 /* Google Font Supports 
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 /* CSS Files  */
-@import url('bootstrap.min.css');
-@import url('themify-icons.css');
-@import url('plugins.css');
-@import url('style.css');
+@import url("bootstrap.min.css");
+@import url("themify-icons.css");
+@import url("plugins.css");
+@import url("style.css");
+
+ul.topNav a {
+  font-weight: bold;
+  color: #1e3d58;
+}
+
+ul.topNav a:hover {
+
+}
+
+

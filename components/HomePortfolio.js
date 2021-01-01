@@ -8,7 +8,7 @@ const HomePortfolio = () => (
           <div className="section-heading mb-70">
             <h2 className="pb-5">Latest Works</h2>
             <p>
-              Some of our works and projects for both clients and in house <br className="d-none d-md-block" />
+              Some of our works, projects and partnerships <br className="d-none d-md-block" />
             </p>
           </div>
         </div>
@@ -22,10 +22,11 @@ const HomePortfolio = () => (
                 <div className="portfolio-title bg-white d-flex flex-column justify-content-center">
                   <Link href="portfolio\details">
                   <a>
-                    <h3 className="text-lower">iReg</h3>
+                    <h3 className="text-lower">ireg.com.ng</h3>
                   </a>
                   </Link>
-                  <h5>Web Application</h5>
+                  <h6>Web Application</h6>
+                  <h6 className="text-lowercase font-weight-light">business registration & legal service</h6>
                 </div>
               </div>
             </div>
@@ -39,10 +40,12 @@ const HomePortfolio = () => (
                 <div className="portfolio-title bg-white d-flex flex-column justify-content-center">
                   <Link  href="portfolio\details">
                   <a>
-                    <h3 className="text-lower">New Clothes</h3>
+                    <h3 className="text-lower">jaymasedge.com</h3>
                   </a>
                   </Link>
-                  <h6>Fashion</h6>
+                  <h6>Web Application</h6>
+                  <h6 className="text-lowercase font-weight-light">Brand and merchandise online ordering service</h6>
+                  
                 </div>
               </div>
             </div>
@@ -52,7 +55,7 @@ const HomePortfolio = () => (
       <div className="text-center mt-60">
         <Link href="/works">
             <a className="btn btn-default btn-outline-secondary">
-                Learn More
+                See more of our works
             </a>
         </Link>
       </div>
